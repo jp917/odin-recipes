@@ -1,2 +1,6 @@
 # odin-recipes
-Odin Recipe project
+Odin Recipe Project
+
+# brief intro of project
+
+# demonstrated skills
