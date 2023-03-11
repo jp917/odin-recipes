@@ -10,7 +10,7 @@ Create an index.html file with basic HTML boilerplate code and add an h1 heading
 ### Iteration 2: Recipe Page
 Create a recipes directory and add a new HTML file to it named after a recipe (e.g., lasagna.html). Add an h1 heading with the name of the recipe as its content.
 
-In the index.html file, add a link to the new recipe page using an anchor tag (<a>) with the href attribute set to recipes/recipename.html (e.g., <a href="recipes/lasagna.html">Lasagna</a>).
+In the index.html file, add a link to the new recipe page using an anchor tag with the href attribute set to recipes/recipename.html.
 
 ### Iteration 3: Recipe Page Content
 Add the following content to the recipe page:
